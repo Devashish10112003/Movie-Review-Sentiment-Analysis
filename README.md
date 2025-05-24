@@ -82,4 +82,39 @@ This project applies deep learning techniques to analyze and classify movie revi
 ---
 
 ## 📂 Project Structure
+movie-review-sentiment-analysis/
+├── data/ # Raw and processed datasets
+├── notebooks/ # Jupyter/Colab notebooks
+├── models/ # (Optional) Saved model weights
+├── README.md # Project documentation
 
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repo:
+```bash
+git clone https://github.com/your-username/movie-review-sentiment-analysis.git
+cd movie-review-sentiment-analysis
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the notebooks:
+```bash
+jupyter notebook
+```
+
+📚 Key Learnings
+LSTM models excel at handling long sequences in text.
+
+RNNs are limited without enhancements like LSTM/GRU.
+
+Combining models can lead to balanced, generalized performance.
+
+🙌 Acknowledgments:
+TensorFlow/Keras documentation
