@@ -66,7 +66,7 @@ This project applies deep learning techniques to analyze and classify movie revi
 - **TensorFlow / Keras**
 - **Scikit-learn**
 - **NLTK**
-- **Jupyter Notebook / Google Colab**
+- **Jupyter Notebook**
 
 ---
 
