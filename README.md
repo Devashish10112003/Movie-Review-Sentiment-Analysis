@@ -82,10 +82,15 @@ This project applies deep learning techniques to analyze and classify movie revi
 ---
 
 ## 📂 Project Structure
+<br/>
 movie-review-sentiment-analysis/
+<br/>
 ├── data/ # Raw and processed datasets
+<br/>
 ├── notebooks/ # Jupyter/Colab notebooks
+<br/>
 ├── models/ # (Optional) Saved model weights
+<br/>
 ├── README.md # Project documentation
 
 
@@ -108,13 +113,16 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+---
 
-📚 Key Learnings
+## 📚 Key Learnings
 LSTM models excel at handling long sequences in text.
 
 RNNs are limited without enhancements like LSTM/GRU.
 
 Combining models can lead to balanced, generalized performance.
 
-🙌 Acknowledgments:
+---
+
+## 🙌 Acknowledgments:
 TensorFlow/Keras documentation
